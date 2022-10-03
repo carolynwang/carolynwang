@@ -5,6 +5,6 @@
 - 👯 I’m looking to meet people and collaborate on tech used in the creative space (or anything interesting really)
 - 💬 Ask me about anything, always happy to chat
 - 📫 How to reach me: carolyn.wang @ berkeley.edu
-- 😄 Pronouns: she/her/hers
+- 😄 Pronouns: she/her
 - 📎 Website: https://carolynwang.github.io/
 
