@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 💬 Ask me about anything, happy to chat
 - 📫 How to reach me: carolyn.wang @ berkeley.edu
 - 📎 Website: https://carolynwang.github.io/
 
